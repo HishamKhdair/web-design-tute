@@ -1,5 +1,5 @@
-#### web-design-tute
-resources for web design course at FedUni
+#### Web Design Tutorials
+Supplemantary resources for web design course at FedUni
 
 ## Clone
 ```bash
