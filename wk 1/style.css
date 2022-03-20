@@ -1,0 +1,27 @@
+main {
+	background-color:#DDDDEE;
+	height:600px;
+}
+
+nav {
+	background-color:#EDEDFF;
+	width:15%;
+	height:600px;
+	float:left;
+	padding-left:20px;
+}
+
+section {
+	background-color:#EDEDFF;
+	width:70%;
+	height: 500px;
+	margin-left:20%; /*a left margin in percent of the width of the containing element*/
+	padding-left:20px;
+}
+
+body {
+	color:black;
+	font-family:Helvetica, sans-serif;
+	font-size:16px; /* default font size */
+}
+
