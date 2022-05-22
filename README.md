@@ -1,5 +1,5 @@
 #### Web Design Tutorials
-Supplemantary resources for web design course at FedUni
+Supplementary resources for the web design course at FedUni
 
 ### Clone and pull updates
 ```bash
