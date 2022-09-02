@@ -1,5 +1,5 @@
 #### Web Design Tutorials
-Supplementary resources for the web design course at FedUni
+Add-on complementary resources for web design course itech2002
 
 ### Clone and pull updates
 ```bash
