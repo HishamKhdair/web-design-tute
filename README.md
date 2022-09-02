@@ -1,5 +1,5 @@
 #### Web Design Tutorials
-Add-on complementary resources for web design course itech2002
+Add-on complementary resources for itech2002 web design course
 
 ### Clone and pull updates
 ```bash
